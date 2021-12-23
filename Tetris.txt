@@ -1,0 +1,10 @@
+Gisue Inc...
+Started BY Bhagyesh Sunil Patel
+Project Name :Tetris Game
+Project Type:Desktop Application
+Language :Java
+Started Date : Wed Jul 15 02:35:24 PDT 2015
+Project Completed on : Thu Jul 16 09:38:25 PDT 2015
+Project Updated on :  Fri Jul 17 11:19:48 PDT 2015
+
+More : 
